@@ -1,0 +1,4 @@
+build/
+[br].sh
+data/out/names.json
+.vscode/
